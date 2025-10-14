@@ -1,9 +1,5 @@
-# Name:  
-# Student Number:  
-
 """
 admin.py
-Programming Principles (CSI6208) - Assignment 2
 -----------------------------------------------
 This program allows the user to manage a collection of jokes stored in a JSON file.
 Each joke has a setup, punchline, and laugh/groan counts.

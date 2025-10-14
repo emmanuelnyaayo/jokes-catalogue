@@ -1,11 +1,5 @@
 [
     {
-        "setup": "Why do ducks make great detectives?",
-        "punchline": "They always quack the case.",
-        "laughs": 2,
-        "groans": 0
-    },
-    {
         "setup": "What do you call a group of 8 hobbits?",
         "punchline": "A hobbyte.",
         "laughs": 1,
@@ -18,9 +12,15 @@
         "groans": 0
     },
     {
+        "setup": "Why do ducks make great detectives?",
+        "punchline": "They always quack the case.",
+        "laughs": 3,
+        "groans": 0
+    },
+    {
         "setup": "Why are you happy?",
         "punchline": "I am always this way.",
         "laughs": 1,
-        "groans": 3
+        "groans": 4
     }
 ]

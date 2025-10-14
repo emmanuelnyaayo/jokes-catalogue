@@ -1,9 +1,5 @@
-# Name:  
-# Student Number:  
-
 """
 jokes.py
-Programming Principles (CSI6208) - Assignment 2
 ------------------------------------------------
 This GUI program displays jokes loaded from 'data.txt' (in JSON format).
 Users can click "Laugh" or "Groan" to rate each joke. The rating is saved,
